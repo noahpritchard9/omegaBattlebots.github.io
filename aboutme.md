@@ -5,3 +5,4 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 Noah Pritchard
+Kyle Vitale
