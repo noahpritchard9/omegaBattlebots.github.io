@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sudarshan Swamy
+thumbnail-img: /assets/img/sudhi.png
 ---
 
 Sudarshan is currently a senior at GWU, studying to get his B.S in Computer Science. He is a part of the Air Force ROTC program out of Howard University, and will commission into the United States Space Force as a 2nd Lieutenant after graduating. He has interned as a Digital Technology Intern at Raytheon, working on their IT team, focusing on network security and protection of assets. 
