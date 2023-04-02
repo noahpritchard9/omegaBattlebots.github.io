@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sudarshan Swamy
+subtitle: UI/UX Developer
 thumbnail-img: /assets/img/sudhi.png
 ---
 
