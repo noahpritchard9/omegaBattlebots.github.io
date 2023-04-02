@@ -8,5 +8,4 @@ Sudarshan is currently a senior at GWU, studying to get his B.S in Computer Scie
 
 For Journey, his work focused on developing a user interface for the app in React Native, ensuring that it was functional, but also easily usable for travelers.
 
-For more information, feel free to contact him through his email or LinkedIn:
-sudhi99@gwu.edu or https://www.linkedin.com/in/sudarshan-swamy-337a43251/ 
+For more information, feel free to contact him through his [email](sudhi99@gwu.edu) or [LinkedIn](https://www.linkedin.com/in/sudarshan-swamy-337a43251/).
