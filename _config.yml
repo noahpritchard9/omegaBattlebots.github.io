@@ -20,7 +20,7 @@ author: Noah Pritchard
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Resources:
     - Github: "https://github.com/noahpritchard9/omegaBattlebots"
 
